@@ -1,6 +1,6 @@
 {
   "name": "ng-router-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/DjonnyX/ng-router-parser/issues"
   },
-  "homepage": "https://github.com/DjonnyX/ng-router-parser#readme"
+  "homepage": "https://github.com/DjonnyX/ng-router-parser#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.9",
+    "typescript": "^3.9.3"
+  }
 }
