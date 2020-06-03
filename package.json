@@ -23,6 +23,8 @@
   "homepage": "https://github.com/DjonnyX/ng-router-parser#readme",
   "devDependencies": {
     "@types/node": "^14.0.9",
+    "@types/relaxed-json": "^1.0.0",
+    "relaxed-json": "^1.0.3",
     "typescript": "^3.9.3"
   }
 }
